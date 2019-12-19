@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+Being Zero
+</title>
+<link rel="shortcut icon" href="assets/img/icons/bzfavicon.png">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<link rel="stylesheet" href="js/site.js">
+<h1> pooja </h1>
+<h3> 17h51a05g5 </h3>
+<h4>cse </h4>
+</body>
+</html>
